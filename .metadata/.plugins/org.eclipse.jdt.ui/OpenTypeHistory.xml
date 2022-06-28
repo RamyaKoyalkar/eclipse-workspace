@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=JUnitDemo/src&lt;businesscode{Demo.java[Demo" modifiers="1" timestamp="1650635621300"/>
+    <typeInfo handle="=JUnitDemo/src&lt;businesscode{Employee.java[Employee" modifiers="1" timestamp="1650637677580"/>
+    <typeInfo handle="=springboot-inventory/C:\/Users\/HOME\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.7.0\/spring-data-jpa-2.7.0.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/2.7.0=/=/maven.scope=/compile=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1655216469084"/>
+    <typeInfo handle="=springboot-mongodb/C:\/Users\/HOME\/.m2\/repository\/org\/springframework\/data\/spring-data-mongodb\/3.4.0\/spring-data-mongodb-3.4.0.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-mongodb=/=/maven.version=/3.4.0=/=/maven.scope=/compile=/&lt;org.springframework.data.mongodb.repository(MongoRepository.class[MongoRepository" modifiers="1537" timestamp="1655557400601"/>
+</typeInfoHistroy>

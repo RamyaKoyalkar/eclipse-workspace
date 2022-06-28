@@ -1,0 +1,11 @@
+package fileiodemo;
+
+public class OutputStreamDemo {
+//Java program to demonstrate DataOutputStream
+//This program uses try-with-resources.It requires jdk 7 or later.
+	public static void main(String[] args) {
+		//writing data using output stream
+
+	}
+
+}

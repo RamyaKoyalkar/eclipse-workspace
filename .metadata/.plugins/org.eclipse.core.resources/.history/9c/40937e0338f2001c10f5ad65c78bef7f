@@ -1,0 +1,15 @@
+package com.wipro.velocity.model;
+
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
+
+@Document(collection="address")
+public class Address {
+	
+	    @Id
+	    private Long addressId;
+	    private String street;
+	    private String city;
+	    private int pincode;
+
+}

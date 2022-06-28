@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+C:\Users\HOME\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3707665966.index
+\springboot-inventory\src\main\java
+C:\Users\HOME\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1707162696.index
+\springboot-helloworld\src\main\java
+C:\Users\HOME\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3430325047.index
+\Demo\src
+C:\Users\HOME\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4258881381.index
+\springweb\src\main\resources
+C:\Users\HOME\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1415469616.index
+\springweb\src\main\java
+C:\Users\HOME\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3891144989.index
+\springboot-inventory\src\main\java

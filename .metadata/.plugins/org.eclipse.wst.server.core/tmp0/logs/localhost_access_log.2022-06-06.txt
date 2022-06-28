@@ -1,0 +1,12 @@
+127.0.0.1 - - [06/Jun/2022:17:48:57 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [06/Jun/2022:17:56:04 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [06/Jun/2022:18:06:38 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:18:06:40 +0530] "GET /springweb/WEB-INF/views/helloworld.jsp HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:18:06:41 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [06/Jun/2022:18:09:39 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:18:09:39 +0530] "GET /springweb/WEB-INF/views/helloworld.jsp HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:18:18:57 +0530] "GET /springweb/WEB-INF/views/helloworld.jsp HTTP/1.1" 404 682
+127.0.0.1 - - [06/Jun/2022:18:25:37 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:18:25:38 +0530] "GET /springweb/WEB-INF/views/helloworld.jsp HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:18:26:45 +0530] "GET /springweb/WEB-INF/views/helloworld.jsp HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [06/Jun/2022:18:30:03 +0530] "GET /springweb/WEB-INF/views/helloworld.jsp HTTP/1.1" 404 682
