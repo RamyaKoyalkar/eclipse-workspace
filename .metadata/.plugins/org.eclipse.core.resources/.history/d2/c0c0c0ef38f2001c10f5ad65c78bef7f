@@ -1,7 +1,0 @@
-package com.wipro.velocity.repository;
-
-import org.springframework.data.mongodb.repository.MongoRepository;
-
-public interface DealerRepository extends MongoRepository<T, ID> {
-
-}

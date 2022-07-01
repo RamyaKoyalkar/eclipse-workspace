@@ -1,4 +1,0 @@
-spring.application.name=Inventory Management System
-
-server.port=9095
-server.servlet.context-path=/ims

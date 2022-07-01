@@ -1,9 +1,0 @@
-package com.wipro.velocity.repository;
-
-import org.springframework.data.mongodb.repository.MongoRepository;
-
-import com.wipro.velocity.model.Product;
-
-public interface ProductRepository extends MongoRepository<Product, String> {
-
-}
